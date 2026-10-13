@@ -1,0 +1,13 @@
+.titulo {
+    background: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.titulo h2 {
+    color: rgb(96, 15, 98);
+    font-size: 25px;
+    font-weight: 800;
+    text-decoration: underline;
+}
